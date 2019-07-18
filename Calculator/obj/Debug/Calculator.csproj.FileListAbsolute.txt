@@ -1,0 +1,6 @@
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\obj\Debug\Calc-Step6.exe
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\obj\Debug\Calc-Step6.pdb
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calculator\bin\Debug\Calc-Step6.exe.config
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calculator\obj\Debug\Calc-Step6.exe
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calculator\obj\Debug\Calc-Step6.pdb

@@ -1,0 +1,4 @@
+D:\Lee's stuff\HND\Year 3\C#\Calc-Step1\Calc-Step1\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 1\Calc-Step1\Calc-Step1\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 2\Calc-Step2\Calc-Step1\bin\Debug\Calc-Step1.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 2\Calc-Step2\Calc-Step1\bin\Debug\Calc-Step2.exe.config

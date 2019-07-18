@@ -1,0 +1,33 @@
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.pdb
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csprojResolveAssemblyReference.cache
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step1.frmCalculator.resources
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step6.Properties.Resources.resources
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csproj.GenerateResource.Cache
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.exe
+E:\Lee's stuff\HND\Year 3\C#\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.pdb
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csprojResolveAssemblyReference.cache
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step1.frmCalculator.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step6.Properties.Resources.resources
+D:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csproj.GenerateResource.Cache
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.exe
+F:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.exe
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\bin\Debug\Calc-Step6.pdb
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csprojResolveAssemblyReference.cache
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step1.frmCalculator.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc_Step6.Properties.Resources.resources
+E:\Lee's stuff\HND\Year 3\C#\Assignment 1\Tutorial 6\Calc-Step6\Calc-Step6\obj\Debug\Calc-Step6.csproj.GenerateResource.Cache
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\bin\Debug\Calc-Step6.exe.config
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\obj\Debug\Calc-Step6.exe
+C:\Users\Lee\Desktop\Hacks\Vids\New folder\Calc-Step6\obj\Debug\Calc-Step6.pdb
